@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS urls;
+DROP SEQUENCE IF EXISTS urls_counter_seq;
